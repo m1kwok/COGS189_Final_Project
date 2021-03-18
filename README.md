@@ -1,4 +1,8 @@
 # COGS189_Final_Project
+### File Notes
+ - Depression.ipynb (Main)
+ - Data_Filtering.ipynb (Data filtering methods.)
+ - ML_Algorithms.ipynb (Machine learning learning algorithms for data.)
 
 ## Schedule
 ### Wednesday: 
