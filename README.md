@@ -2,7 +2,7 @@
 ### File Notes
  - Depression.ipynb (Main)
  - Data_Filtering.ipynb (Data filtering methods.)
- - ML_Algorithms.ipynb (Machine learning learning algorithms for data.)
+ - ML_Algorithms.ipynb (Machine learning algorithms for filtered data.)
 
 ## Schedule
 ### Wednesday: 
